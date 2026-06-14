@@ -24,11 +24,11 @@
         "python-envs.environmentDirectories": []
       },
       "extensions": [
+        "DavidAnson.vscode-markdownlint",
+        "ms-python.debugpy",
         "ms-python.python",
         "ms-python.vscode-pylance",
-        "ms-python.debugpy",
-        "DavidAnson.vscode-markdownlint",
-        "redhat.vscode-xml"
+        "redhat.vscode-yaml"
       ]
     }
   }
