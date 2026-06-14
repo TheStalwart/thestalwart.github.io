@@ -1,0 +1,29 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "RenderCV: Generate Markdown, HTML, PDF",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "rendercv",
+      "args": [
+        "render",
+        "${workspaceFolder}/Pavel_Shevchuk_CV.yaml",
+        "--html-path",
+        "${workspaceFolder}/rendercv_output/index.html",
+        "--markdown-path",
+        "${workspaceFolder}/README.md"
+      ],
+      // When running in a Dev Container on Windows,
+      // VSCode project tree will not refresh after the build output is generated.
+      // Copilot went on a hard acid trip trying all kinds of workarounds,
+      // but the only reliable solution is this comment
+      // suggesting to tap the "Refresh Explorer" button above the project tree.
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Use Dev Container configuration for GitHub Codespaces.
+# Locally, venv is much more reliable.
+.venv/

@@ -1,0 +1,11 @@
+cv:
+  name: Pavel Shevchuk
+  headline: Software Engineer
+  location: Riga, Latvia
+  email: stlwrt@gmail.com
+  photo: photo.jpg
+  social_networks:
+    - network: LinkedIn
+      username: pavel-shevchuk-542678131
+    - network: GitHub
+      username: TheStalwart
