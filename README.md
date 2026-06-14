@@ -167,3 +167,9 @@ Sept 2004 – June 2008
 Profesionālā vidējā izglītība
 
 
+
+## Skills
+
+**Languages:** English (fluent), Latvian (fluent), Russian (native)
+
+**Driver's License:** A, B, BE

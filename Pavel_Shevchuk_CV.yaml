@@ -127,6 +127,12 @@ cv:
         start_date: 2004-09
         end_date: 2008-06
 
+    skills:
+      - label: Languages
+        details: English (fluent), Latvian (fluent), Russian (native)
+      - label: Driver's License
+        details: A, B, BE
+
 design:
   theme: classic
   templates:
