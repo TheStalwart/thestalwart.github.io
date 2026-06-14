@@ -114,6 +114,43 @@ cv:
           - >
             Overhauled Counter-Strike 1.6 server to reduce average ping from 50ms to 10ms
 
+    "Personal Projects":
+      - name: RetroMultiplayer
+        start_date: 2017-04
+        end_date: present
+        summary: Organized social gaming events.
+        tools: NSIS, VBScript, PowerShell, Windows XP, Windows 11, TrueNAS
+        highlights:
+          - Upcycled e-waste into retro gaming setups and network attached storage
+          - Developed maintenance utilities in VBScript, targeting Windows XP
+          - Developed maintenance utilities in PowerShell, targeting Windows 11
+          - Rescued legacy servers and workstations
+
+      - name: iCalCord
+        summary: >
+          Discovered an undocumented way of using public Discord API to extract event announcements,
+          implemented a service to access the data in industry standard ICS feed format.
+        tools: Python, discord.py, MongoDB, Sentry.io
+
+      - name: TripAdvisor-GPX
+        summary: >
+          Reverse engineered a web application and implemented a browser extension
+          to extract lists of attractions in industry standard GPX format.
+        tools: JavaScript, Tampermonkey
+
+      - name: waze2gpx
+        summary: >
+          Reverse engineered a proprietary format
+          and implemented an easy to use web app
+          for conversion of Waze ride history to industry standard formats.
+        tools: JavaScript, Leaflet
+
+      - name: Banknote Tabulator
+        summary: >
+          Iterated over a messy plain text data to normalize values
+          and improve accessibility and searchability of items on an online shop.
+        tools: Python, JavaScript
+
     education:
       - institution: Rīgas Tehniskā Koledža
         summary: Pirmā līmeņa profesionālā augstākā izglītība
@@ -139,6 +176,12 @@ design:
     experience_entry:
       main_column: |-
         **COMPANY**, POSITION
+        SUMMARY
+        Tools: TOOLS
+        HIGHLIGHTS
+    normal_entry:
+      main_column: |-
+        **NAME**
         SUMMARY
         Tools: TOOLS
         HIGHLIGHTS

@@ -144,6 +144,66 @@ Tools: Windows, Linux, FreeBSD, macOS, Ethernet, Wi-Fi, JavaScript, HLDS, Lua
 
 
 
+## Personal Projects
+
+### **RetroMultiplayer**
+
+Apr 2017 – present
+
+Organized social gaming events.
+
+Tools: NSIS, VBScript, PowerShell, Windows XP, Windows 11, TrueNAS
+
+- Upcycled e-waste into retro gaming setups and network attached storage
+
+- Developed maintenance utilities in VBScript, targeting Windows XP
+
+- Developed maintenance utilities in PowerShell, targeting Windows 11
+
+- Rescued legacy servers and workstations
+
+
+
+### **iCalCord**
+
+Discovered an undocumented way of using public Discord API to extract event announcements, implemented a service to access the data in industry standard ICS feed format.
+
+
+
+Tools: Python, discord.py, MongoDB, Sentry.io
+
+
+
+### **TripAdvisor-GPX**
+
+Reverse engineered a web application and implemented a browser extension to extract lists of attractions in industry standard GPX format.
+
+
+
+Tools: JavaScript, Tampermonkey
+
+
+
+### **waze2gpx**
+
+Reverse engineered a proprietary format and implemented an easy to use web app for conversion of Waze ride history to industry standard formats.
+
+
+
+Tools: JavaScript, Leaflet
+
+
+
+### **Banknote Tabulator**
+
+Iterated over a messy plain text data to normalize values and improve accessibility and searchability of items on an online shop.
+
+
+
+Tools: Python, JavaScript
+
+
+
 ## Education
 
 ### **Rīgas Tehniskā Koledža**, Datorsistēmu un datortīklu administrators
