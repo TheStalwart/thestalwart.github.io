@@ -146,7 +146,7 @@ Tools: Windows, Linux, FreeBSD, macOS, Ethernet, Wi-Fi
 
 ## Education
 
-## **Rīgas Tehniskā Koledža**, Datorsistēmu un datortīklu administrators
+### **Rīgas Tehniskā Koledža**, Datorsistēmu un datortīklu administrators
 
 
 
@@ -157,7 +157,7 @@ Pirmā līmeņa profesionālā augstākā izglītība
 
 
 
-## **Rīgas Tehniskā Koledža**, Programmēšanas tehniķis
+### **Rīgas Tehniskā Koledža**, Programmēšanas tehniķis
 
 
 
