@@ -134,7 +134,7 @@ June 2005 – Aug 2007
 
 Made sure customers are always online.
 
-Tools: Windows, Linux, FreeBSD, macOS, Ethernet, Wi-Fi
+Tools: Windows, Linux, FreeBSD, macOS, Ethernet, Wi-Fi, JavaScript, HLDS, Lua
 
 - Developed a custom network monitoring application
 
