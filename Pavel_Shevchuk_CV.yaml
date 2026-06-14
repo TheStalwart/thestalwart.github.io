@@ -10,3 +10,116 @@ cv:
       username: pavel-shevchuk-542678131
     - network: GitHub
       username: TheStalwart
+
+  sections:
+    summary:
+      - >
+        Software Engineer with 15+ years of iOS application development experience,
+        looking for opportunities to leverage legacy Objective-C, Swift and UIKit knowledge,
+        or learn something new.
+
+    experience:
+      - company: Vialet.eu / Mellifera.team
+        position: Leading iOS Developer
+        start_date: 2019-09
+        end_date: 2024-10
+        summary: Maintained fintech iOS application and developed new features.
+        tools: iOS, Xcode, Objective-C, Swift, UIKit, REST APIs
+        highlights:
+          - >
+            Reverse engineered a proprietary middleware and reimplemented its API
+            to escape vendor lock-in
+          - >
+            Worked with Customer Support team to discover and permanently solve
+            as many recurring issues as possible, and aid in research of remaining edge cases
+          - >
+            Documented the mobile app code to such extent
+            it was eventually used by backend developers as a reference
+          - >
+            Profiled and fixed performance bottlenecks
+            to preserve compatibility with older devices
+
+      - company: CTE / Skywind Tech LV
+        position: Leading Mobile Game Developer
+        start_date: 2014-09
+        end_date: 2018-11
+        summary: Developed and maintained mobile games for iOS and Android.
+        tools: >
+          iOS, Android,
+          Objective-C, C++, Swift, Java, ActionScript/AIR,
+          Cocos2d-x, Starling, Apache Cordova,
+          Jira, Jenkins CI
+        highlights:
+          - >
+            Profiled and optimized Flash/AIR game engine
+            to improve framerate 600% on iPhone 4
+          - >
+            Maintained 4x game engines
+            for compliance with mobile app storefronts,
+            social media and marketing middleware
+          - >
+            Helped QA and Customer Support departments
+            to transition expertise from web to mobile games
+          - >
+            Helped CI/CD team to implement game resource conversion pipelines
+
+      - company: VeryPositive
+        position: iOS Developer
+        start_date: 2011-04
+        end_date: 2014-08
+        summary: Developed various iOS applications.
+        tools: iOS, Xcode, Objective-C, UIKit, REST APIs
+        highlights:
+          - >
+            Learned Objective-C and UIKit with no prior mobile app development experience,
+            while staying on schedule to deliver value to customers
+
+      - company: Valiant Vision
+        position: Full-Stack Web Developer
+        start_date: 2008-01
+        end_date: 2011-03
+        summary: Developed various web applications.
+        tools: Linux, Apache, MySQL, PHP
+        highlights:
+          - >
+            Worked beyond the definition of "Full-Stack Web Developer",
+            to consult customers what kind of hardware to buy,
+            assembled the servers, maintained Linux on bare metal,
+            and developed the web applications according to business requirements
+          - >
+            Developed clones of contemporary social media,
+            dating websites and video streaming platforms
+
+      - company: RPGSalez.com
+        position: Full-Stack Web Developer
+        start_date: 2008-05
+        end_date: 2009-02
+        summary: Developed a MMORPG currency online shop and back-office.
+        tools: Linux, Apache, MySQL, PHP
+        highlights:
+          - >
+            Implemented a game currency online shop
+            that used human editable CSV files as a data source,
+            as specifically requested by the business owner
+
+      - company: UniNet
+        position: Network Technician
+        start_date: 2005-06
+        end_date: 2007-08
+        summary: Made sure customers are always online.
+        tools: Windows, Linux, FreeBSD, macOS, Ethernet, Wi-Fi
+        highlights:
+          - >
+            Developed a custom network monitoring application
+          - >
+            Overhauled Counter-Strike 1.6 server to reduce average ping from 50ms to 10ms
+
+design:
+  theme: classic
+  templates:
+    experience_entry:
+      main_column: |-
+        **COMPANY**, POSITION
+        SUMMARY
+        Tools: TOOLS
+        HIGHLIGHTS
