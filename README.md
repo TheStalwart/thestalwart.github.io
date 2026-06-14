@@ -143,3 +143,27 @@ Tools: Windows, Linux, FreeBSD, macOS, Ethernet, Wi-Fi
 - Overhauled Counter-Strike 1.6 server to reduce average ping from 50ms to 10ms
 
 
+
+## Education
+
+## **Rīgas Tehniskā Koledža**, Datorsistēmu un datortīklu administrators
+
+
+
+
+Sept 2008 – Feb 2011
+
+Pirmā līmeņa profesionālā augstākā izglītība
+
+
+
+## **Rīgas Tehniskā Koledža**, Programmēšanas tehniķis
+
+
+
+
+Sept 2004 – June 2008
+
+Profesionālā vidējā izglītība
+
+

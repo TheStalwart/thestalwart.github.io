@@ -114,6 +114,19 @@ cv:
           - >
             Overhauled Counter-Strike 1.6 server to reduce average ping from 50ms to 10ms
 
+    education:
+      - institution: Rīgas Tehniskā Koledža
+        summary: Pirmā līmeņa profesionālā augstākā izglītība
+        area: Datorsistēmu un datortīklu administrators
+        start_date: 2008-09
+        end_date: 2011-02
+
+      - institution: Rīgas Tehniskā Koledža
+        summary: Profesionālā vidējā izglītība
+        area: Programmēšanas tehniķis
+        start_date: 2004-09
+        end_date: 2008-06
+
 design:
   theme: classic
   templates:
