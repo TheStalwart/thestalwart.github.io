@@ -48,7 +48,7 @@ cv:
           iOS, Android,
           Objective-C, C++, Swift, Java, ActionScript/AIR,
           Cocos2d-x, Starling, Apache Cordova,
-          Jira, Jenkins CI
+          Jira, Jenkins CI, Google Analytics
         highlights:
           - >
             Profiled and optimized Flash/AIR game engine
@@ -57,6 +57,9 @@ cv:
             Maintained 4x game engines
             for compliance with mobile app storefronts,
             social media and marketing middleware
+          - >
+            Implemented custom properties in Google Analytics
+            to understand device targeting priorities
           - >
             Helped QA and Customer Support departments
             to transition expertise from web to mobile games

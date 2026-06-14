@@ -52,7 +52,7 @@ Sept 2014 – Nov 2018
 
 Developed and maintained mobile games for iOS and Android.
 
-Tools: iOS, Android, Objective-C, C++, Swift, Java, ActionScript/AIR, Cocos2d-x, Starling, Apache Cordova, Jira, Jenkins CI
+Tools: iOS, Android, Objective-C, C++, Swift, Java, ActionScript/AIR, Cocos2d-x, Starling, Apache Cordova, Jira, Jenkins CI, Google Analytics
 
 
 
@@ -61,6 +61,10 @@ Tools: iOS, Android, Objective-C, C++, Swift, Java, ActionScript/AIR, Cocos2d-x,
 
 
 - Maintained 4x game engines for compliance with mobile app storefronts, social media and marketing middleware
+
+
+
+- Implemented custom properties in Google Analytics to understand device targeting priorities
 
 
 
