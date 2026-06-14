@@ -11,4 +11,13 @@
     // https://stackoverflow.com/a/29972553
     "editor.detectIndentation": false
   },
+  "[yaml]": {
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "yaml.schemas": {
+    "https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json": "*CV.yaml"
+  }
 }
