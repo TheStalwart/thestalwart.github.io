@@ -3,6 +3,7 @@
 - Phone: [+371 26 115 112](tel:+37126115112)
 - Email: [stlwrt@gmail.com](mailto:stlwrt@gmail.com)
 - Location: Riga, Latvia
+- Website: [thestalwart.github.io](https://thestalwart.github.io/)
 - LinkedIn: [pavelshevchuk](https://linkedin.com/in/pavelshevchuk)
 - GitHub: [TheStalwart](https://github.com/TheStalwart)
 
