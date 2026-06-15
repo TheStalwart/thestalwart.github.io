@@ -155,15 +155,15 @@ cv:
         tools: Python, JavaScript
 
     education:
-      - institution: Rīgas Tehniskā Koledža
-        summary: Pirmā līmeņa profesionālā augstākā izglītība
-        area: Datorsistēmu un datortīklu administrators
+      - institution: Riga Technical College
+        summary: College degree
+        area: Computer system and network administrator
         start_date: 2008-09
         end_date: 2011-02
 
-      - institution: Rīgas Tehniskā Koledža
-        summary: Profesionālā vidējā izglītība
-        area: Programmēšanas tehniķis
+      - institution: Riga Technical College
+        summary: Vocational secondary education
+        area: Programming technician
         start_date: 2004-09
         end_date: 2008-06
 

@@ -210,25 +210,25 @@ Tools: Python, JavaScript
 
 ## Education
 
-### **Rīgas Tehniskā Koledža**, Datorsistēmu un datortīklu administrators
+### **Riga Technical College**, Computer system and network administrator
 
 
 
 
 Sept 2008 – Feb 2011
 
-Pirmā līmeņa profesionālā augstākā izglītība
+College degree
 
 
 
-### **Rīgas Tehniskā Koledža**, Programmēšanas tehniķis
+### **Riga Technical College**, Programming technician
 
 
 
 
 Sept 2004 – June 2008
 
-Profesionālā vidējā izglītība
+Vocational secondary education
 
 
 
