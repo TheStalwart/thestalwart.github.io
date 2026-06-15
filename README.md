@@ -100,15 +100,13 @@ Jan 2008 – Mar 2011
 
 3 years 3 months
 
-Developed various web applications.
+Developed clones of contemporary social media, dating websites and video streaming platforms.
+
+
 
 Tools: Linux, Apache, MySQL, PHP
 
 - Worked beyond the definition of "Full-Stack Web Developer", to consult customers what kind of hardware to buy, assembled the servers, maintained Linux on bare metal, and developed the web applications according to business requirements
-
-
-
-- Developed clones of contemporary social media, dating websites and video streaming platforms
 
 
 
@@ -195,16 +193,6 @@ Reverse engineered a proprietary format and implemented an easy to use web app f
 
 
 Tools: JavaScript, Leaflet
-
-
-
-### **Banknote Tabulator**
-
-Iterated over a messy plain text data to normalize values and improve accessibility and searchability of items on an online shop.
-
-
-
-Tools: Python, JavaScript
 
 
 

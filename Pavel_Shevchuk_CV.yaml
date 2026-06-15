@@ -81,7 +81,9 @@ cv:
         position: Full-Stack Web Developer
         start_date: 2008-01
         end_date: 2011-03
-        summary: Developed various web applications.
+        summary: >
+          Developed clones of contemporary social media,
+          dating websites and video streaming platforms.
         tools: Linux, Apache, MySQL, PHP
         highlights:
           - >
@@ -89,9 +91,6 @@ cv:
             to consult customers what kind of hardware to buy,
             assembled the servers, maintained Linux on bare metal,
             and developed the web applications according to business requirements
-          - >
-            Developed clones of contemporary social media,
-            dating websites and video streaming platforms
 
       - company: RPGSalez.com
         position: Full-Stack Web Developer
@@ -147,12 +146,6 @@ cv:
           and implemented an easy to use web app
           for conversion of Waze ride history to industry standard formats.
         tools: JavaScript, Leaflet
-
-      - name: Banknote Tabulator
-        summary: >
-          Iterated over a messy plain text data to normalize values
-          and improve accessibility and searchability of items on an online shop.
-        tools: Python, JavaScript
 
     education:
       - institution: Riga Technical College
