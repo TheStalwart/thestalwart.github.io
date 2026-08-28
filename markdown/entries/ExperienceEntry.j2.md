@@ -9,7 +9,7 @@
 
 {% endfor %}
 {% for line in entry.main_column.splitlines()[1:] %}
-{%- if line != "!!! summary" -%}{{ line|replace("    ", "") }}
+{%- if line != "!!! summary" and (entry.tools or not line.startswith("Tools")) -%}{{ line|replace("    ", "") }}
 
 {% endif -%}
 {% endfor %}
