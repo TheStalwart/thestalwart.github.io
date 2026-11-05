@@ -22,8 +22,7 @@ cv:
     experience:
       - company: BALTIC DATA
         position: Retail Sales Associate
-        start_date: 2026-08
-        end_date: present
+        date: "Aug 2026 – present"
         summary: Helped customers choose suitable products.
 
       - company: Vialet.eu / Mellifera.team

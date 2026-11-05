@@ -19,10 +19,6 @@ Software Engineer with 15+ years of iOS application development experience, look
 
 Aug 2026 – present
 
-
-
-1 month
-
 Helped customers choose suitable products.
 
 
